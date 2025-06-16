@@ -1,0 +1,3 @@
+[console_scripts]
+flan-t5-cli = flan_t5_cli.cli:main
+

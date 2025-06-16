@@ -1,0 +1,12 @@
+setup.py
+flan_t5_cli/__init__.py
+flan_t5_cli/__main__.py
+flan_t5_cli/cli.py
+flan_t5_cli/model.py
+flan_t5_cli/utils.py
+simple_inference_flan_t5.egg-info/PKG-INFO
+simple_inference_flan_t5.egg-info/SOURCES.txt
+simple_inference_flan_t5.egg-info/dependency_links.txt
+simple_inference_flan_t5.egg-info/entry_points.txt
+simple_inference_flan_t5.egg-info/requires.txt
+simple_inference_flan_t5.egg-info/top_level.txt
