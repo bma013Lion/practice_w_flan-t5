@@ -69,10 +69,6 @@ You can customize the text generation by modifying these parameters in the code:
 - Transformers
 - Rich (for terminal formatting)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Google Research](https://github.com/google-research/t5x) for the FLAN-T5 models
